@@ -6,7 +6,7 @@ import getHash from '../utils/getHash';
 import resolveRoutes from '../utils/resolveRoutes';
 
 const routes = {
-  '/': Home,
+  'https://jc-olguins.github.io/curso-spa/': Home,
   '/:id': Character,
   '/contact': 'Contact',
 };
